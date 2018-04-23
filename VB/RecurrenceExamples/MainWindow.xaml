@@ -1,0 +1,22 @@
+﻿<Window
+    x:Class="RecurrenceExamples.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:RecurrenceExamples"
+    xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
+    xmlns:dxsch="http://schemas.devexpress.com/winfx/2008/xaml/scheduling"
+    Height="600"
+    Width="800"
+    mc:Ignorable="d"
+    Title="MainWindow">
+
+    <Grid>
+        <dxsch:SchedulerControl x:Name="scheduler" ActiveViewIndex="0">
+            <dxsch:MonthView x:Name="monthView1"/>
+            <dxsch:WeekView x:Name="weekView1"/>
+        </dxsch:SchedulerControl>
+    </Grid>
+
+</Window>
