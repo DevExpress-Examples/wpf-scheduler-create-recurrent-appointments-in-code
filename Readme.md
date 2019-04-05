@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/RecurrenceExamples/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/RecurrenceExamples/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/RecurrenceExamples/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RecurrenceExamples/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/RecurrenceExamples/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/RecurrenceExamples/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to create appointments with various recurrence types in code
