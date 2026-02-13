@@ -24,7 +24,7 @@ This example demonstrates how to create scheduler appointments with different re
 
 * [WPF Scheduler - Create Regular and Recurrent Appointments at the View Model Level](https://github.com/DevExpress-Examples/How-to-Create-regular-and-recurrent-appointments-at-the-view-model-level)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-create-recurrent-appointments-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-create-recurrent-appointments-in-code&~~~was_helpful=no)
 
